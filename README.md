@@ -43,11 +43,16 @@ Screenshots
 ![https://drive.google.com/file/d/1LHDoLpbLN5OeltdsadDArYP3Rmlwo8hK/view?usp=sharing]
 
 Contributing
+
 Contributions are welcome! If you have any ideas for improvements or find any issues, please open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License.
 
+
 Acknowledgments
+
 Thanks to OpenWeatherMap for providing the weather data API.
+
 Lottie animations by Airbnb.
